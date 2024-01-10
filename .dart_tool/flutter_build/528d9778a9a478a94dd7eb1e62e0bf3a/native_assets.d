@@ -1,0 +1,1 @@
+ C:\\Users\\User\\Desktop\\GSC\\Plant-Disease-Detection-Flutter\\.dart_tool\\flutter_build\\528d9778a9a478a94dd7eb1e62e0bf3a\\native_assets.yaml: 
